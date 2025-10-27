@@ -62,24 +62,7 @@
 <p>✅ Handles low-contrast and directionally blurred images</p>
 <p>✅ Scalable for real-time applications</p>
 
-<h2>💻 Usage</h2>
 
-<h3>Installation</h3>
-<p><b>Install dependencies:</b></p>
-<pre><code>pip install torch torchvision opencv-python matplotlib numpy
-</code></pre>
-
-<h3>Run Traditional Method (Laplacian Variance)</h3>
-<pre><code>python laplacian_variance.py
-</code></pre>
-
-<h3>Train Deep Learning Model</h3>
-<pre><code>python train_resnet.py
-</code></pre>
-
-<h3>Evaluate Model</h3>
-<pre><code>python evaluate_model.py
-</code></pre>
 
 <h2>🧪 Output Example</h2>
 <pre><code>{
@@ -117,12 +100,10 @@
 <h2>🧑‍💻 Author</h2>
 <p><b>Name:</b> Tanishka Kasal</p>
 <p><b>Institution:</b> JK Lakshmipat University, Jaipur</p>
-<p><b>Role:</b> Research Intern at IIT Jodhpur</p>
+
 <p><b>Domain:</b> Deep Learning and Computer Vision</p>
 
 <hr>
 <p><b>Note:</b> BlurSense was developed to explore the comparative performance of traditional vision-based blur detection and deep learning methods. The model demonstrates significant improvements in identifying complex blur types, showing potential for real-world deployment in visual quality analysis systems.</p>
 
----
 
-Would you like me to include **images or diagrams** (like blur samples, model pipeline, or accuracy graph placeholders) inside the README in HTML format as well? It makes it look more like a professional GitHub project page.
