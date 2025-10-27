@@ -64,20 +64,7 @@
 
 
 
-<h2>🧪 Output Example</h2>
-<pre><code>{
-  "image_name": "sample_123.jpg",
-  "predicted_label": "Defocus Blur",
-  "confidence": 0.91,
-  "method_used": "ResNet-18",
-  "details": {
-    "laplacian_variance_score": 58.32,
-    "predicted_category": "Blur",
-    "blur_type": "Motion",
-    "true_label": "Blur"
-  }
-}
-</code></pre>
+
 
 <h2>🔮 Future Enhancements</h2>
 <p><b>Model Improvements:</b></p>
@@ -99,7 +86,7 @@
 
 <h2>🧑‍💻 Author</h2>
 <p><b>Name:</b> Tanishka Kasal</p>
-<p><b>Institution:</b> JK Lakshmipat University, Jaipur</p>
+
 
 <p><b>Domain:</b> Deep Learning and Computer Vision</p>
 
